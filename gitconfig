@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = ore.zsuzsanna@gmail.com
+	name = Zsuzsanna Orehoczki
